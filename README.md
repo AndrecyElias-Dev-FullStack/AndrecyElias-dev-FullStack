@@ -14,10 +14,6 @@
   <strong>📫 E-mail:</strong> <a href="mailto:andrecyeliasfrancoconcecao@gmail.com">andrecyeliasfrancoconcecao@gmail.com</a>
 </p>
 
-<blockquote>
-  <strong>Obs:</strong> No VSCode, pesquise por "inlayhint" nas configurações e altere para <em>OffUnlessPressed</em> para uma melhor visualização do código.
-</blockquote>
-
 <hr>
 
 <h2>🛠️ Instruções para Git</h2>
