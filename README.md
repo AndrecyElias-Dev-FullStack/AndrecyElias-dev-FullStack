@@ -2,7 +2,7 @@
 <h3 align="center">Atualmente Suporte N1</h3>
 <p align="center">"Com 30 anos de trajetória no setor de tecnologia, possuo sólida experiência em operação, manutenção e desenvolvimento de sistemas. Minha missão é transformar desafios técnicos em soluções eficientes, focando sempre na resolução de problemas complexos."</p>
 
-<p align="left"> (https://github.com/AndrecyElias-Dev-FullStack) /> </p>
+<p align="left"> (https://github.com/AndrecyElias-Dev-FullStack) </p>
 
 - 🔭 Atualmente, eu trabalho no Grupo Tesoura de Ouro (GTO).
 - 📫 Este é meu e-mail para contato: **andrecyeliasfrancoconcecao@gmail.com**
