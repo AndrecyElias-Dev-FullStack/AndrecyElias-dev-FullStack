@@ -11,7 +11,6 @@
 <p align="left">
   <strong>🔗 GitHub:</strong> <a href="https://github.com/AndrecyElias-Dev-FullStack">AndrecyElias-Dev-FullStack</a><br>
   <strong>🔭 Atualmente:</strong> Trabalho no Grupo Tesoura de Ouro (GTO).<br>
-  <strong>🎓 Curso:</strong> Desenvolvedor Java Noturno - SENAI (Turma QUA.209.083)<br>
   <strong>📫 E-mail:</strong> <a href="mailto:andrecyeliasfrancoconcecao@gmail.com">andrecyeliasfrancoconcecao@gmail.com</a>
 </p>
 
